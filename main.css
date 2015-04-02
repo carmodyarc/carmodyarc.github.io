@@ -1,2 +1,4 @@
-body {background-color: #efefef; font-color: red;}
-
+html {
+    background-color: bisque;
+    font: red;
+}
