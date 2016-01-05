@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "This is a Test"
+categories: testing
+---
+
+This is just a test.  Let's try an image:
+
+[![Test Image](/assets/test.jpg)](/about)
+
+So there's that.  We'll see if the variable thing works below.  Should be interesting to see at least.  
+
+What else?  You can aparently add layouts for each page in the front matter.  So, it's feasible that I could have a different look for each and every post and page.  I could also have different layouts for asides and shit.  We'll see how that goes.
+
+##### This is an H5.  It's pretty great
+---
+
+So, let's serve this bitch and see what's up. 
